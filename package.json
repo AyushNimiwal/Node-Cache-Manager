@@ -1,0 +1,22 @@
+{
+  "name": "node-cache-manager",
+  "version": "1.0.0",
+  "description": "a npm library for managing the cache in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushNimiwal/Node-Cache-Manager.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ayush Nimiwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushNimiwal/Node-Cache-Manager/issues"
+  },
+  "homepage": "https://github.com/AyushNimiwal/Node-Cache-Manager#readme"
+}
